@@ -1,5 +1,5 @@
 #  <h2>👩‍💻About Me:</h2>
-📚 I'm currently pursuing a diploma in computer engineering.<br>💻 I'm working as an intern at Hertzsoft pvt ltd.<br>🌱 I'm learning languages like Python, React, etc.<br>
+📚 I'm currently pursuing a diploma in computer engineering.<br>💻 Ex-intern at Hertzsoft pvt ltd.<br>🌱 I'm learning languages like Python, React, etc.<br>
 
 
 ## <h2>🌐 Socials:</h2>
